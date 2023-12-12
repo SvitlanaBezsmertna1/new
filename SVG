@@ -41,6 +41,7 @@
 
 <!-- Mouth -->
 <path d="M250,400 Q300,500 350,400" style="fill:none;stroke:red;stroke-width:10"/>
+<!--Maybe try reducing the x values-->
 
 <!-- Eyebrows -->
 <line x1="220" y1="160" x2="280" y2="160" style="stroke:black;stroke-width:5" />
